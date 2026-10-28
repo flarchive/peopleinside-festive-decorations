@@ -1,0 +1,16 @@
+peopleinside-festive-decorations:
+  admin:
+    settings_title: Decorazioni Festive
+    general_title: Generale
+    enable_label: Attiva decorazioni festive
+    enable_help: Interruttore generale. Le decorazioni e gli effetti a schermo verranno applicati solo se questa opzione è attiva.
+    holidays_title: Festività e Stagioni
+    snow_title: Effetto Neve ❄️
+    snow_enable_label: Attiva effetto neve
+    snow_always_label: Forza neve tutto l'anno (ignora le date)
+    snow_dates_help: Definisci il periodo di attivazione automatica della neve.
+    to: al
+    fireflies_title: Effetto Lucciole ✨
+    ff_enable_label: Attiva effetto lucciole
+    ff_always_label: Forza lucciole tutto l'anno (ignora le date)
+    ff_dates_help: Definisci il periodo di attivazione automatica delle lucciole.
