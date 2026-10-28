@@ -1,0 +1,16 @@
+peopleinside-festive-decorations:
+  admin:
+    settings_title: Festive Decorations
+    general_title: General
+    enable_label: Enable festive decorations
+    enable_help: Master switch. Decorations and screen effects will only be applied if this option is active.
+    holidays_title: Holidays and Seasons
+    snow_title: Snow Effect ❄️
+    snow_enable_label: Enable snow effect
+    snow_always_label: Force snow all year round (ignore dates)
+    snow_dates_help: Define the automatic activation period for snow.
+    to: to
+    fireflies_title: Fireflies Effect ✨
+    ff_enable_label: Enable fireflies effect
+    ff_always_label: Force fireflies all year round (ignore dates)
+    ff_dates_help: Define the automatic activation period for fireflies.

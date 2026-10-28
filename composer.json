@@ -1,0 +1,31 @@
+{
+    "name": "peopleinside/festive-decorations",
+    "description": "Aggiunge decorazioni festive automatiche (Natale, Halloween, Neve, Lucciole) a Flarum.",
+    "type": "flarum-extension",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "flarum/core": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PeopleInside\\FestiveDecorations\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Decorazioni Festive",
+            "category": "appearance",
+            "icon": {
+                "name": "fas fa-snowflake",
+                "backgroundColor": "#e74c3c",
+                "color": "#fff"
+            }
+        },
+        "flarum-cli": {
+            "modules": {
+                "admin": true,
+                "js": true
+            }
+        }
+    }
+}

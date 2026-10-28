@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "name": "@peopleinside/festive-decorations",
+    "version": "1.0.0",
+    "devDependencies": {
+        "flarum-tsconfig": "^1.0.2",
+        "flarum-webpack-config": "^2.0.2",
+        "webpack": "^5.76.0",
+        "webpack-cli": "^4.10.0"
+    },
+    "scripts": {
+        "dev": "webpack --mode development --watch",
+        "build": "webpack --mode production"
+    }
+}
