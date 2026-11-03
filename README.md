@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of peopleinside/festive-decorations.** Not for installation: use [Packagist](https://packagist.org/packages/peopleinside/festive-decorations) or the [upstream repository](https://github.com/PeopleInside/festive-decorations).
 
-**0** versions archived · Latest: [`1.0.5`](https://github.com/flarchive/peopleinside-festive-decorations/tree/archive/v1.0.5) · License: `GPL-2.0-or-later` · Flarum: `^2.0`
+**5** versions archived · Latest: [`1.0.5`](https://github.com/flarchive/peopleinside-festive-decorations/tree/archive/v1.0.5) · License: `GPL-2.0-or-later` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.1` | 2026-10-29 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-festive-decorations/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-10-29 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-festive-decorations/tree/archive/v1.0.2) |
+| `1.0.3` | 2026-11-03 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-festive-decorations/tree/archive/v1.0.3) |
+| `1.0.4` | 2026-11-03 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-festive-decorations/tree/archive/v1.0.4) |
+| `1.0.5` | 2026-11-03 | `^2.0` | [Browse](https://github.com/flarchive/peopleinside-festive-decorations/tree/archive/v1.0.5) |
 
 Catalog entry: [packages/peopleinside-festive-decorations.json](https://github.com/flarchive/archive-index/blob/main/packages/peopleinside-festive-decorations.json)
 
