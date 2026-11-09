@@ -1,0 +1,15 @@
+{
+  "name": "@peopleinside/festive-decorations",
+  "version": "1.0.5",
+  "private": true,
+  "prettier": "@flarum/prettier-config",
+  "dependencies": {
+    "flarum-webpack-config": "^3.0.0",
+    "webpack": "^5.97.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "peopleinside/festive-decorations",
+    "description": "Decorazioni festive e stagionali per Flarum (titoli, logo, menù, festone, neve, lucciole, cappelli natalizi sugli avatar).",
+    "type": "flarum-extension",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "PeopleInside",
+            "email": "tickets@peopleinside-it.p.tawk.email",
+            "homepage": "https://github.com/PeopleInside",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/PeopleInside/festive-decorations/issues",
+        "source": "https://github.com/PeopleInside/festive-decorations"
+    },
+    "require": {
+        "php": ">=8.2",
+        "flarum/core": "^2.0"
+    },
+    "autoload": {
+        "psr-4": { "PeopleInside\\FestiveDecorations\\": "src/" }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Decorazioni Festive",
+            "category": "feature",
+            "icon": { "name": "fas fa-snowflake", "color": "#fff", "backgroundColor": "#c62828" }
+        }
+    }
+}
